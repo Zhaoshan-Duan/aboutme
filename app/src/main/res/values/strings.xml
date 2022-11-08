@@ -2,11 +2,14 @@
     <string name="app_name">About Me</string>
     <string name="name">Zhaoshan Duan</string>
     <string name="yellow_start">Yellow_start</string>
-    <string name="bio">Hi, my name is Zhaoshan "Joshua" Duan.
-        \nI love dogs, cats.
-        \nI\'m trying to become an Android developer.
-        \nI aim to do five Leetcode problems per day, and mostly hard and medium questions.
-        \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed urna tortor. Sed sed malesuada sem. Pellentesque vehicula purus sed arcu lobortis, ac pellentesque elit imperdiet. Quisque ac est eu metus rutrum dignissim eu at velit. Sed eu risus sodales, dapibus metus ut, tristique mi. Donec posuere ac urna venenatis lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ac ex quis justo hendrerit pellentesque in nec lacus. Integer condimentum at est et faucibus. Nam auctor, justo id ultricies gravida, enim massa tempus nunc, at placerat elit libero sit amet urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi ligula libero, bibendum vel ipsum eu, ultrices tincidunt lectus. Duis ornare, orci in auctor efficitur, massa urna efficitur urna, id blandit libero neque vitae felis. Ut at metus sapien. Praesent ac fermentum tortor.
+    <string name="bio">
+        Zhasohan “Joshua” Duan, is a Spring 2022 graduate with a Master’s degree in Statistics with, a Data Science concentration from California State University, East Bay.
+        \n He developed a strong background in Android Development, Data Structure, and Algorithms. He is proficient in Kotlin, Python, Java, R, and Android SDK.
+        \n Currently working as a software engineer intern, Joshua is working on developing mobile application prototypes the provide efficient solutions to meet clients’ needs.
+        \nAs per client’s request, he has implemented Firebase authentication and Firebase UI for login authentication, and enabled client-side user management on Firebase console. He is working on re-adopting the prototype with MVVM design pattern, and adding more features such as in-app messaging, support for injecting machine learning algorithm.
+Before the he had the internship opportunit, Joshua has developed four fully functional Android applications. One of the apps was a Flashcard study aid app, developed by a team of three. Users can view, create, and rate each other’s flashcards in a variety of subjects. Throughout the development process, he identified several issues that are related to collaboration and scalability and took action. Regarding collaboration with other teammates, he recognized the communication gaps among members, so he initiated and led code review sessions twice a week. During these sessions, he guided the conversation flows to ensure that the development cycle was on schedule and that all members of the team were actively engaged. He worked to ensure Github issues were assigned to the appropriate teammate, updated accordingly, and merged to the final build. In terms of scalability issues, he realized that the configuration of the proposed data model and back-end server limited the product’s potential for future features. His report eventually led to the reconfiguration of the app’s method of parsing user data. One of the other apps that he developed individually was a Twitter client mobile app. His app allows users to view their tweets via the OAuth protocol and mimics most of the general features and UI design of the official Twitter app. All of the projects mentioned are available on his Github (https://github.com/Zhaoshan-Duan).
+He is very interested in software development and is actively looking for job opportunities as Software Engineer/Android Engineer/Back-end Engineer with CPT/OPT sponsorship.
+
     </string>
     <string name="what_is_your_nickname">What is your nickname?</string>
     <string name="done">Done</string>
