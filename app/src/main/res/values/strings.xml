@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">About Me</string>
+    <string name="name">Zhaoshan Duan</string>
+    <string name="yellow_start">Yellow_start</string>
+    <string name="bio">Hi, my name is Zhaoshan "Joshua" Duan.
+        \nI love dogs, cats.
+        \nI\'m trying to become an Android developer.
+        \nI aim to do five Leetcode problems per day, and mostly hard and medium questions.
+        \nLorem ipsum dolor sit amet, consectetur adipiscing elit. Aenean sed urna tortor. Sed sed malesuada sem. Pellentesque vehicula purus sed arcu lobortis, ac pellentesque elit imperdiet. Quisque ac est eu metus rutrum dignissim eu at velit. Sed eu risus sodales, dapibus metus ut, tristique mi. Donec posuere ac urna venenatis lobortis. Interdum et malesuada fames ac ante ipsum primis in faucibus. Duis ac ex quis justo hendrerit pellentesque in nec lacus. Integer condimentum at est et faucibus. Nam auctor, justo id ultricies gravida, enim massa tempus nunc, at placerat elit libero sit amet urna. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Morbi ligula libero, bibendum vel ipsum eu, ultrices tincidunt lectus. Duis ornare, orci in auctor efficitur, massa urna efficitur urna, id blandit libero neque vitae felis. Ut at metus sapien. Praesent ac fermentum tortor.
+    </string>
+    <string name="what_is_your_nickname">What is your nickname?</string>
+    <string name="done">Done</string>
+</resources>
